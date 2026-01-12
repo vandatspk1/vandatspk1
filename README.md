@@ -16,6 +16,7 @@ Intern/Fresher Embedded Engineer
   - Embedded C (pointer, memory, peripheral)
   - Data Structures & Algorithms (basic)
   - English for engineers
+  - MCU: STM32 (Bare mental)
    
   🎯 **Career goal**: Become a **Professional Embedded Engineer**
 
