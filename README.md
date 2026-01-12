@@ -35,5 +35,4 @@ Intern/Fresher Embedded Engineer
 ### Tools
 - Keil, Arduino IDE, VS Code
 - Git & GitHub (basic)
-- Linux (basic commands)
   
