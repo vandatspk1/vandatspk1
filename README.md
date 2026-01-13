@@ -1,6 +1,10 @@
 # Hi there, I'm Đạt 👋
 Intern/Fresher Embedded Engineer
 
+Welcome to my GitHub profile!  
+This space showcases my journey in Embedded Systems, hands-on projects, and continuous learning.
+
+
 **Welcome  to my GitHub profile !**
 
 <p align="center">
