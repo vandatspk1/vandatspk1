@@ -35,4 +35,8 @@ Intern/Fresher Embedded Engineer
 ### Tools
 - Keil, Arduino IDE, VS Code
 - Git & GitHub (basic)
+
+  ## Contacts
+  - Email : vandatvu381@gmail.com
+    
   
