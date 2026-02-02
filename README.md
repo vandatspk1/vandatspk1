@@ -4,9 +4,6 @@ Intern/Fresher Embedded Engineer
 **Welcome  to my GitHub profile !**  
 This space showcases my journey in Embedded Systems, hands-on projects, and continuous learning.
 
-
-
-
 <p align="center">
   🇻🇳 From Việt Nam <br/>
   🎓 Recently graduated – Computer Engineering Technology <br/>
@@ -32,12 +29,11 @@ This space showcases my journey in Embedded Systems, hands-on projects, and cont
 - Python (basic)
 
 ### Embedded
-- Microcontrollers: **8051, ESP32, Arduino**
+- Microcontrollers: **8051, ESP32, Arduino, STM3v(F103xx - bare mental)**
 - Communication: **UART, SPI, I2C**
 - Peripherals: GPIO, Timer, Interrupt, PWM
-
 ### Tools
-- Keil, Arduino IDE, VS Code
+- Keil, Arduino IDE, VS Code, GCC for ARM, STM32IDE/CUBE
 - Git & GitHub (basic)
 
   ## Contacts
